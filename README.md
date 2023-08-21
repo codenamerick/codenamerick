@@ -12,6 +12,5 @@ In love with bringing designs to life through code I decided to attend App Acade
 - <img src="https://res.cloudinary.com/dedpxzbak/image/upload/v1643935215/linkedIn-icon_n9xklu.svg" style="height: 20px;"/> Find me on [LinkedIn](https://www.linkedin.com/in/rick-arocho/);
 
 <p>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=codenamerick&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codenamerick&layout=compact" />
 </p>
